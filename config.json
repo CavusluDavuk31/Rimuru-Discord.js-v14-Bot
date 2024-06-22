@@ -1,11 +1,11 @@
 {
-    "token":"",
-	"log":"Botun eklendiği ve çıkarıldığı sunucular hakkında özel sunucunuzdaki belirtilen kanalın idisin girmeni gerekmektedir.",
-    "sahip":"",
-    "desteksunucusu": "https://discord.gg/",
-    "bot-davet":"https://discord.com/oauth2/authorize",
-    "bot-adi":"Rimuru",
-    "website":"https://oktaydev.com.tr",
+    "token":"MTI0NjU3ODMwOTE2MTE2MDcxNA.G8kVfw.GiJf2fURp-cVYKoKVbOQk30aLHVsTa7wdV0A1M",
+	"log":"1254211675435827200",
+    "sahip":"1000156278737338418",
+    "desteksunucusu": "https://discord.gg/YGGuBcSg7m",
+    "bot-davet":"https://discord.com/oauth2/authorize?client_id=1246578309161160714&permissions=8&integration_type=0&scope=bot",
+    "bot-adi":"Suku",
+    "website":"Yok",
     "mesajXp": 1,
     "sesXp":2,
     "levelXp": 99
